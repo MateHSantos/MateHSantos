@@ -7,7 +7,17 @@
 
 - 📫 Você me acha através do e-mail **mateus.trisantos@gmail.com**
 
-- 📄 Minha paixão por analises, gráficos e tecnologias vem me abrindo diversas oportunidades e criatividade para minha área. Venho realizando trabalhos autônomos/freelancers. Ja trabalhei em areas de atendimento ao cliente, financeiro, vendas e transportes. Sou um constante aprendiz, fascinado em contribuir para o desenvolvimento de pessoas, proporcionar melhorias de negócios, adquirir e compartilhar conhecimentos e servir à sociedade de forma justa e ética. Analista em funções comerciais, sendo em empresas nacionais e multinacionais dos segmentos de alimentação, logística e cosmética/cuidados. Anos de experiencias fizeram descobrir novas formas de leituras e analises para informações relevantes sobre planejamento estratégico e tomada de decisão, estudos como as ferramentas de Power BI e Python. Estudante na area de ciencia de dados e Big Data. [https://www.linkedin.com/in/mateus-henrique-dos-santos-17b32916b/](https://www.linkedin.com/in/mateus-henrique-dos-santos-17b32916b/)
+- 📄 Analista de Dados e Analista de Negócios experiente com mais de 5 anos de experiência em Business Intelligence. Com experiencia em banco de dados, machine learning, estatística e geração de relatórios.
+
+Tenho um sólido conhecimento em Business Intelligence, utilizando técnicas avançadas de coleta, análise e visualização de dados para fornecer insights valiosos às organizações. Sou especialista em gerenciar bancos de dados, garantindo sua integridade, otimização e segurança.
+
+Com uma paixão pelo aprendizado de máquina e estatística, aplico algoritmos e modelos preditivos para identificar padrões e tendências que impulsionam o sucesso dos negócios. Minha expertise em machine learning me permite desenvolver soluções inteligentes para melhorar processos e tomar decisões embasadas em dados.
+
+Além disso, sou habilidoso na geração de relatórios, utilizando ferramentas e linguagens como SQL, Python e Tableau. Tenho a capacidade de transformar dados complexos em informações claras e concisas, fornecendo insights acionáveis para as partes interessadas.
+
+Com habilidades analíticas e de comunicação afiadas, sou capaz de colaborar efetivamente com equipes multidisciplinares, traduzindo necessidades de negócios em requisitos técnicos e vice-versa. Tenho um histórico comprovado de resultados e sou movido pela busca contínua por excelência.
+
+Se você está procurando um analista de dados e analista de negócios apaixonado por transformar dados em valor estratégico, estou pronto para contribuir para o sucesso da sua organização. Vamos conectar-nos e explorar como posso agregar valor ao seu time! [https://www.linkedin.com/in/mateus-henrique-dos-santos-17b32916b/](https://www.linkedin.com/in/mateus-henrique-dos-santos-17b32916b/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
