@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou o Mateus Henrique</h1>
 <h3 align="center">Apaixonado por analise e ciência de dados</h3>
 
-- 🌱 Atualmente estou aprendendo **Python e Machine Learning**
+- 🌱 Atualmente estou estudando **MBA Data Science e Analytics**
 
-- 💬Me pergunte sobre **Python, Power BI, Excel e SQL**
+- 💬Me pergunte sobre **Python, Machine Learning, R, Power BI, Excel e SQL**
 
 - 📫 Você me acha através do e-mail **mateus.trisantos@gmail.com**
 
